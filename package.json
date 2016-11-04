@@ -1,0 +1,17 @@
+{
+  "name": "pro-xy-ws-api",
+  "version": "0.1.0",
+  "description": "Plugin for pro-xy, that allows to integrate with pro-xy through web sockets.",
+  "main": "lib/proxyWsApi.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "license": "ISC",
+  "bin": {},
+  "repository": "https://github.com/adros/pro-xy-ws-api.git",
+  "author": "adros1@gmail.com",
+  "dependencies": {
+    "log4js": "^0.6.38",
+    "socket.io": "^1.5.1"
+  }
+}
