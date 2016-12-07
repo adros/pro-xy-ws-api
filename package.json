@@ -1,6 +1,6 @@
 {
   "name": "pro-xy-ws-api",
-  "version": "0.1.7",
+  "version": "0.1.8",
   "description": "Plugin for pro-xy, that allows to integrate with pro-xy through web sockets.",
   "main": "lib/proxyWsApi.js",
   "scripts": {
